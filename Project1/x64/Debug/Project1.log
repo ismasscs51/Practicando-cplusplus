@@ -1,6 +1,0 @@
-﻿  MyForm.cpp
-E:\Escritorio\SourceVisual\Repos\Project1\Project1\MyForm.h(108,6): warning C4552: '+': result of expression not used
-  (compiling source file 'MyForm.cpp')
-  
-  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  Project1.vcxproj -> E:\Escritorio\SourceVisual\Repos\Project1\x64\Debug\Project1.exe
